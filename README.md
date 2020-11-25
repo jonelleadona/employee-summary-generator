@@ -1,1 +1,2 @@
-# employee-summary-generator
+# Employee Summary Generator
+
